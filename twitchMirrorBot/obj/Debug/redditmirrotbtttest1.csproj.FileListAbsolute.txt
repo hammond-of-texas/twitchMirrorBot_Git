@@ -1,0 +1,16 @@
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\obj\Debug\redditmirrotbtttest1.csproj.CoreCompileInputs.cache
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\redditmirrotbtttest1.exe.config
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\redditmirrotbtttest1.exe.manifest
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\redditmirrotbtttest1.application
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\redditmirrotbtttest1.exe
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\redditmirrotbtttest1.pdb
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\Newtonsoft.Json.dll
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\RedditSharp.dll
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\HtmlAgilityPack.dll
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\Newtonsoft.Json.xml
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\bin\Debug\RedditSharp.pdb
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\obj\Debug\redditmirrotbtttest1.csprojResolveAssemblyReference.cache
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\obj\Debug\redditmirrotbtttest1.exe.manifest
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\obj\Debug\redditmirrotbtttest1.application
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\obj\Debug\redditmirrotbtttest1.exe
+D:\Users\fkupf\source\repos\redditmirrotbtttest1\redditmirrotbtttest1\obj\Debug\redditmirrotbtttest1.pdb

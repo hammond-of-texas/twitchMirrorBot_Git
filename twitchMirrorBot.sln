@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2002
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twitchMirrorBot", "twitchMirrorBot\twitchMirrorBot.csproj", "{918FB4BF-D4D0-44EE-9AD6-F25E6FC78E1C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedditSharp", "..\..\..\..\..\GitHub\Reddit\RedditSharp\RedditSharp\RedditSharp.csproj", "{A368CB75-75F0-4489-904D-B5CEBB0FE624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{918FB4BF-D4D0-44EE-9AD6-F25E6FC78E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{918FB4BF-D4D0-44EE-9AD6-F25E6FC78E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{918FB4BF-D4D0-44EE-9AD6-F25E6FC78E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{918FB4BF-D4D0-44EE-9AD6-F25E6FC78E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A368CB75-75F0-4489-904D-B5CEBB0FE624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A368CB75-75F0-4489-904D-B5CEBB0FE624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A368CB75-75F0-4489-904D-B5CEBB0FE624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A368CB75-75F0-4489-904D-B5CEBB0FE624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5038876-689C-4C35-89F5-7116B852EB61}
+	EndGlobalSection
+EndGlobal
