@@ -27,13 +27,13 @@ namespace twitchMirrorBot
         public const string SubredditName = "YourSubreddit";
 
         // Name of the twitch chanannel you want to watch:
-        public const string TwitchChannelName = "TwitchChennelName";
+        public const string TwitchChannelName = "TwitchChannelName";
 
         /*Enter your personal client secret below. 
          If you don't have one, login to twitch 
          and go to https://dev.twitch.tv/dashboard/apps/create.
          Chose a name for your bot, use localhost as redirect and chose a catecory.*/
-        public const string ClientSecret = "ClientSecre0000000";
+        public const string ClientSecret = "ClientSecret0000000";
 
         public const string OnlineText = "###Swifty is online right now."; // Text in the sidebar if the streamer is online
         public const string OfflineText = "###Swifty is offline right now."; // Text in the sidebar if the streamer is offline. One of those two textes must be initially in the sidebar to make it work.
