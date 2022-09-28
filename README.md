@@ -1,4 +1,4 @@
-# twitchMirrorBot_Git
+# twitchMirrorBot_Git [DEPRECIATED!!]
 
 Read the comments for detail instructions.
 
